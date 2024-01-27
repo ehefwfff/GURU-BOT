@@ -8,8 +8,8 @@ import axios from 'axios'
 
 global.owner = [
   ['491525151168']
-  [''] 
-  [''] 
+  ['491525151116'] 
+  ['494648582124'] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
